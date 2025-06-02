@@ -1,0 +1,101 @@
+Rank,Name,Symbol,ID,Score,Commits
+1,"Stellar",XLM,stellar,64350.1,86
+2,"Internet Computer",ICP,internet-computer,56894.7,567
+3,"Ethereum",ETH,ethereum,32920.2,41
+4,"Solana",SOL,solana,17844.2,171
+5,"Chainlink",LINK,chainlink,17684,87
+6,"Bitcoin",BTC,bitcoin,16887.4,108
+7,"NEAR Protocol",NEAR,near,11063.8,100
+8,"Artificial Superintelligence Alliance",FET,fetch-ai,10979.6,0
+9,"Avalanche",AVAX,avalanche-2,6284.6,50
+10,"Algorand",ALGO,algorand,5804.3,24
+11,"Sui",SUI,sui,4681.900000000001,219
+12,"Bittensor",TAO,bittensor,4072.1,271
+13,"Celestia",TIA,celestia,3389.8,12
+14,"Monero",XMR,monero,2836.3,0
+15,"TRON",TRX,tron,2742.2,19
+16,"Dogecoin",DOGE,dogecoin,2251.9,0
+17,"Toncoin",TON,the-open-network,2122.2,13
+18,"The Graph",GRT,the-graph,1332.1000000000001,85
+19,"XRP",XRP,ripple,1263.5,4
+20,"Rocket Pool ETH",RETH,rocket-pool-eth,1116,1
+21,"Cardano",ADA,cardano,954.2,0
+22,"Litecoin",LTC,litecoin,874.7,1
+23,"Uniswap",UNI,uniswap,798,0
+24,"VeChain",VET,vechain,756.5,71
+25,"BNB",BNB,binancecoin,645.2,0
+26,"Kaspa",KAS,kaspa,438,3
+27,"Cronos",CRO,crypto-com-chain,309.20000000000005,0
+28,"Pi Network",PI,pi-network,246.6,3
+29,"POL (ex-MATIC)",POL,polygon-ecosystem-token,234.50000000000003,0
+30,"Aave",AAVE,aave,198.70000000000002,0
+31,"Cosmos Hub",ATOM,cosmos,179.3,0
+32,"USDC",USDC,usd-coin,174.3,2
+33,"Bitcoin Cash",BCH,bitcoin-cash,172.9,0
+34,"Curve DAO",CRV,curve-dao-token,172.20000000000002,0
+35,"Injective",INJ,injective-protocol,128.9,0
+36,"Ethereum Classic",ETC,ethereum-classic,98.4,10
+37,"Arbitrum",ARB,arbitrum,81.4,0
+38,"Wrapped Bitcoin",WBTC,wrapped-bitcoin,31.200000000000003,0
+39,"NEXO",NEXO,nexo,15.500000000000002,0
+40,"Ondo",ONDO,ondo-finance,4.9,0
+41,"XDC Network",XDC,xdce-crowd-sale,0.1,0
+42,"Aptos",APT,aptos,0,0
+43,"Binance Bridged USDC (BNB Smart Chain)",USDC,binance-bridged-usdc-bnb-smart-chain,0,0
+44,"Binance Bridged USDT (BNB Smart Chain)",BSC-USD,binance-bridged-usdt-bnb-smart-chain,0,0
+45,"Binance-Peg WETH",WETH,binance-peg-weth,0,0
+46,"Binance Staked SOL",BNSOL,binance-staked-sol,0,0
+47,"Bitget Token",BGB,bitget-token,0,0
+48,"BlackRock USD Institutional Digital Liquidity Fund",BUIDL,blackrock-usd-institutional-digital-liquidity-fund,0,0
+49,"Stacks",STX,blockstack,0,0
+50,"Bonk",BONK,bonk,0,0
+51,"Coinbase Wrapped BTC",CBBTC,coinbase-wrapped-btc,0,0
+52,"Dai",DAI,dai,0,0
+53,"EOS",EOS,eos,0,0
+54,"Ethena Staked USDe",SUSDE,ethena-staked-usde,0,0
+55,"Ethena USDe",USDE,ethena-usde,0,0
+56,"Ethena",ENA,ethena,0,0
+57,"Fartcoin",FARTCOIN,fartcoin,0,0
+58,"Fasttoken",FTN,fasttoken,0,0
+59,"Filecoin",FIL,filecoin,0,0
+60,"First Digital USD",FDUSD,first-digital-usd,0,0
+61,"Flare",FLR,flare-networks,0,0
+62,"Gate",GT,gatechain-token,0,0
+63,"Hedera",HBAR,hedera-hashgraph,0,0
+64,"Hyperliquid",HYPE,hyperliquid,0,0
+65,"Immutable",IMX,immutable-x,0,0
+66,"Jito Staked SOL",JITOSOL,jito-staked-sol,0,0
+67,"Jupiter",JUP,jupiter-exchange-solana,0,0
+68,"Jupiter Perpetuals Liquidity Provider Token",JLP,jupiter-perpetuals-liquidity-provider-token,0,0
+69,"Kelp DAO Restaked ETH",RSETH,kelp-dao-restaked-eth,0,0
+70,"KuCoin",KCS,kucoin-shares,0,0
+71,"LEO Token",LEO,leo-token,0,0
+72,"Lombard Staked BTC",LBTC,lombard-staked-btc,0,0
+73,"Mantle Staked Ether",METH,mantle-staked-ether,0,0
+74,"Mantle",MNT,mantle,0,0
+75,"Official Trump",TRUMP,official-trump,0,0
+76,"OKB",OKB,okb,0,0
+77,"Optimism",OP,optimism,0,0
+78,"Pepe",PEPE,pepe,0,0
+79,"Polkadot",DOT,polkadot,0,0
+80,"Quant",QNT,quant-network,0,0
+81,"Render",RENDER,render-token,0,0
+82,"Sei",SEI,sei-network,0,0
+83,"Shiba Inu",SHIB,shiba-inu,0,0
+84,"Solv Protocol BTC",SOLVBTC,solv-btc,0,0
+85,"Sonic",S,sonic-3,0,0
+86,"SPX6900",SPX,spx6900,0,0
+87,"Lido Staked Ether",STETH,staked-ether,0,0
+88,"Story",IP,story-2,0,0
+89,"sUSDS",SUSDS,susds,0,0
+90,"Tether",USDT,tether,0,0
+91,"Tokenize Xchange",TKX,tokenize-xchange,0,0
+92,"USD1",USD1,usd1-wlfi,0,0
+93,"USDS",USDS,usds,0,0
+94,"USDT0",USDT0,usdt0,0,0
+95,"Virtuals Protocol",VIRTUAL,virtual-protocol,0,0
+96,"WETH",WETH,weth,0,0
+97,"WhiteBIT Coin",WBT,whitebit,0,0
+98,"Worldcoin",WLD,worldcoin-wld,0,0
+99,"Wrapped eETH",WEETH,wrapped-eeth,0,0
+100,"Wrapped stETH",WSTETH,wrapped-steth,0,0
